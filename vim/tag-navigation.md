@@ -8,3 +8,5 @@ the [jump-navigation]
 * `Ctrl-t` returns back.
 
 [jump-navigation]: /vim/jump-navigation.md
+
+Sources and more info [here](http://vim.wikia.com/wiki/Browsing_programs_with_tags).
