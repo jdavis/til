@@ -13,6 +13,10 @@ Inspired by jbranchaud's [til repository](https://github.com/jbranchaud/til).
 
 ---
 
+### Unix
+
+- [Generic Grep Command](unix/generic-grep-command.md)
+
 ### Vim
 
 - [Highlight the current word under the cursor](vim/highlight-current-word.md)
